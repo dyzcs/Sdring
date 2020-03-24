@@ -51,6 +51,14 @@ public class JettyServer {
                 baseRequest.setHandled(true);
             }
         });
+        try {
+            server.start();
+            log.info("JettyServer is running on http://127.0.0.1:{}", port);
+//            server.join();
+        } catch (Exception e) {
+            log.error("Starting Jetty error.");
+            e.printStackTrace();
+        }
     }
 
     /**
