@@ -26,3 +26,4 @@ hs_err_pid*
 
 .idea/
 target/
+!target/Sdring-1.0-SNAPSHOT.jar
