@@ -38,7 +38,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -61,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585035554798</updated>
-      <workItem from="1585035559632" duration="2641000" />
+      <workItem from="1585035559632" duration="2850000" />
     </task>
     <servers />
   </component>
@@ -74,6 +74,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="451" y="91" key="#Project_Structure" timestamp="1585038604602">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="451" y="91" key="#Project_Structure/0.0.1920.1030@0.0.1920.1030" timestamp="1585038604602" />
     <state x="488" y="130" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585035917783">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
