@@ -25,6 +25,3 @@
 hs_err_pid*
 
 .idea/compiler.xml
-pom.xml
-src/
-!/pom.xml
