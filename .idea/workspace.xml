@@ -14,6 +14,13 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -43,6 +50,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.deng.sdring.ioc" />
+    </key>
+  </component>
   <component name="SbtLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -61,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585035554798</updated>
-      <workItem from="1585035559632" duration="2850000" />
+      <workItem from="1585035559632" duration="12939000" />
     </task>
     <servers />
   </component>
@@ -78,13 +90,25 @@
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="451" y="91" key="#Project_Structure/0.0.1920.1030@0.0.1920.1030" timestamp="1585038604602" />
+    <state x="1053" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1585056779332">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="1053" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1585056779332" />
     <state x="488" y="130" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585035917783">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="488" y="130" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1585035917783" />
+    <state x="1086" y="355" width="545" height="325" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585040480724">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="1086" y="355" width="545" height="325" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1030@0.0.1920.1030" timestamp="1585040480724" />
     <state x="339" y="54" key="SettingsEditor" timestamp="1585035625410">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="339" y="54" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1585035625410" />
+    <state x="936" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1585042252921">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="936" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1030@0.0.1920.1030" timestamp="1585042252921" />
   </component>
 </project>
